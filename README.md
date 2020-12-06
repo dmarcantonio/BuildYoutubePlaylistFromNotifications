@@ -6,5 +6,4 @@ Run from the console, or an extension like [JS-Exec](https://chrome.google.com/w
 
 
 #### Next steps?
-Just autoload the link.
 Somehow await the youtube notifications response.
