@@ -8,5 +8,6 @@ setTimeout(() => {
         ids.push(link.href.split('=')[1]);
     });
     const link = 'http://www.youtube.com/watch_videos?video_ids=' + ids.toString();
-    console.log(link);
+    // Redirect to playlist!
+    window.location.replace(link);
 }, 5000);
